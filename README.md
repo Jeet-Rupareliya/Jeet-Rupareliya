@@ -1,6 +1,6 @@
 ## Hi, I'm Jeet 👋
 
-- 🔭 I’m interested in **Data Science**, **Data Analysis**, **Browser Automation**, **Machine Learning**, **Product Management** stuff
+- 🔭 I’m interested in **Data Science**, **Data Analysis**, **Product Management** stuff
 - 🌱 I’m currently learning **How to use data to make the world a better place**.
 - 📫 How to reach me **pateljeet590@gmail.com**
 - ⚡ Things I love besides coding:
